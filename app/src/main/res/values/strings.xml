@@ -3,4 +3,5 @@
     <string name="activity_main_text">Main Page</string>
     <string name="activity_2_text_1">Second Page</string>
     <string name="activity_2_text_2">Second Page 2</string>
+    <string name="activity_2_button2_text">Button</string>
 </resources>
